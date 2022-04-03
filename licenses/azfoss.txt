@@ -1,0 +1,20 @@
+Copyright (c) <YEAR> <COPYRIGHT HOLDER>
+
+This software is freely usable and distributable under the following
+conditions:
+1. Distributions and redistributions must retain the above copyright notice.
+2. Distributions and redistributions must retain the following disclaimer.
+3. Distributions and redistributions must apply the same license.
+4. Distributions and redistributions' source code, either modified or not,
+must be publicly available.
+5. Distributions and redistributions must not use this software's name nor
+the names of this software's authors, contributors or copyright holders to
+indicate endorsement or to promote distributions or redistributions of this
+software.
+6. This license does not grant the rights to use the copyright holder's trade
+names, trademarks, service marks, or the copyright holder's logo.
+
+Disclaimer:
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY. IN NO EVENT SHALL THE
+AUTHORS, CONTRIBUTORS, NOR THE COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGE
+CAUSED BY THE USE OF THIS SOFTWARE.
